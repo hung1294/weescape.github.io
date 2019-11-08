@@ -1,0 +1,170 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	box-sizing: border-box;
+	font-family: inherit;
+}
+#header{
+	height: 75px;
+	background-color: #212529;
+}
+#logo img{
+	max-width: 268px;
+	margin: 20px 20px 20px 70px;
+	float: left;
+}
+#location{
+	width: 50px;
+	float: left;
+	margin: 30px;
+}
+#location select{
+	border: 1px solid #ddd;
+	background-color: #0000009e;
+	color: #bfbfbf;
+	font-size: .8em;
+}
+#boxheader{
+	float: right;
+	margin: 30px 70px;
+}
+#buttonheader {
+	border-radius: 27px;
+	background-image: linear-gradient(to left,#ffe135,#fba050);
+	color: black;
+	font-weight: 900;
+	height: 30px;
+	width: 200px;
+	padding: 10px 15px;
+	font-style: inherit;
+	margin: 20px;
+}
+#background {
+	background: black url(https://weescape.vn/img/uploads/1554620025992.jpg) no-repeat left top ;
+	height: 690px;
+	width: 1519px;
+}
+#content {
+	border-top: 7px solid #eea326;
+	background-color: #3a3d42;
+	min-height: 1510px;
+	margin-bottom: 0px;
+}
+#slidebar{
+	float: left;
+	width: 316px;
+	height: 1400px;
+	margin-left: 80px;
+	margin-top: 50px;
+	background-color: #3a3d42;
+}
+#loctheo{
+	font-size: 25px;
+	font-family: sans-serif;
+	border-bottom: 1px solid white;
+	padding-bottom: 12px;
+	width: 107px;
+	height: 35px;
+	color: white;
+	float:left;
+}
+#thungrac{
+	color: white;
+	height: 35px;
+	width: 209px;
+	float: right;
+	padding: 10px 0px 5px 130px;
+	font-family: sans-serif;
+	font-size: 16px;
+}
+.tieude1{
+	font-weight: 700;
+	color: #eea326;
+	height: 16px;
+	width: 316px;
+	margin: 30px 0px 20px 0px;
+	font-size: 16px;
+}
+.khungtieude {
+	height: 49px;
+	width: 316px;
+	border-bottom: 1px solid white;
+	margin-top: 15px;
+}
+.tieude2 {
+	color: white;
+	font-family: inherit;
+	font-size: 12px;
+	float: left;
+	width: 260px;
+}
+.khungtieude input{
+	float: right;
+	text-align: right;
+	margin-top: 10px;
+}
+.imagesao{
+	max-width: 130px;
+}
+#trochoi{
+	margin:50px 80px;
+	float: left;
+	height: 1400px;
+	width: 963px;
+	background-color: #3a3d42;
+}
+#athuthach{
+	color: white;
+	font-size: 22px;
+	float: left;
+}
+#sapxep1{
+	float: right;
+	color: white;
+}
+#sapxep2{
+	margin-left: 10px;
+	float: right;
+}
+#anhchotroi{
+	height: 1000px;
+	margin-top: 20px;
+}
+.anhgame{
+	width: 30%;
+	margin-right: 28px;
+	float: left;
+	margin-bottom: 25px;
+}
+#Footer{
+	height: 365px;
+	width: 1519px;
+	background-color: #3a3d42;
+	margin-top: 50px;
+	margin-left: 80px;
+}
+#ddfotter{
+	color: #989898;
+	font-size: 22px;
+	margin-right: 60px;
+	max-width: 800px;
+	float: left;
+}
+.tieude3{
+	color: #989898;
+	font-size: 22px;
+}
+.tieude4{
+	color: #989898;
+	font-size: 18px;
+}
+body {
+	background-color: #3a3d42;
+}
+#gioithieu{
+	float: left;
+	margin-right: 60px;
+}
+#dichvu {
+	float: left;
+}
